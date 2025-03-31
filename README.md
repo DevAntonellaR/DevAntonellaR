@@ -1,7 +1,7 @@
 <h1 align="center">Bienvenido a mi GitHub 👋</h1>
 
 ## 🔗 Redes Sociales
-[![LinkedIn](www.linkedin.com/in/antonella-rr31)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonella-rr31)
 
 ## 🚀 Habilidades
 <p align="left">
@@ -17,9 +17,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
-
-## 📊 Métricas de idiomas
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SiempreA&layout=compact&theme=dark)
 
 
 <!--
