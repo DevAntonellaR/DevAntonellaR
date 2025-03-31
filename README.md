@@ -1,5 +1,9 @@
 <h1 align="center">Bienvenido a mi GitHub 👋</h1>
 
+## Hi there! I'm Antonella 👋
+
+💻 **Software Developer | Web Development Enthusiast**
+--
 ## 🔗 Redes Sociales
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonella-rr31)
 
@@ -16,11 +20,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
 </p>
 --
-### Hi there! I'm Antonella 👋
 
-💻 **Software Developer | Web Development Enthusiast**
-
----
 
 ### 🚀 Technologies & Tools
 
@@ -41,13 +41,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?style=flat-square&logo=chakra-ui&logoColor=white)
-
----
-
-### 📫 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonella-rr31)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SiempreA&show_icons=true&theme=tokyonight)
 
 
 <!--
