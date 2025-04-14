@@ -2,7 +2,6 @@
 
 <h3 ## Hi there! I'm Antonella 👋 💻 **Software Developer | Web Development Enthusiast** </h3>
 
---
 ## 🔗 Redes Sociales
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonella-rr31)
 --
@@ -29,7 +28,6 @@
   <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
---
 <!--
 **DevAntonellaR/DevAntonellaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
